@@ -1,0 +1,7 @@
+name: RaidBossBar
+version: 1.0
+author: Kato14123
+main: me.Kato14123.RaidBossBar.Main
+description: RaidBossBar
+
+commands:
